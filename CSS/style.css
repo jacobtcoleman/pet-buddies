@@ -98,10 +98,10 @@ font-family: 'Oswald', sans-serif;
 text-transform: uppercase;
 }
 
-/* Can't seem to get nav item hover color to change*/
+/* Can't seem to get nav item hover color to change
 .nav-link:hover {
 color: #E52464;
-}
+}*/
 
 
 
@@ -214,6 +214,8 @@ grid-template-columns: 50vw 50vw;
 grid-template-areas: 
 "titleArea titleArea"
 "topLeftArea topRightArea"
+"FL1Area R1Area"
+"F2ARea R2SArea"
 
 ;}
 
@@ -382,7 +384,8 @@ margin-top: 5vh;
 .basicPadding {
 padding: 5%;
 }
-PLACEMENT, WIDTH, HEIGHT */
+
+/* PLACEMENT, WIDTH, HEIGHT */
 
 .imageMax {
 max-height: 100vh;
